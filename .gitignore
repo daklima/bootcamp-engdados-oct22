@@ -214,3 +214,5 @@ pip-selfcheck.json
 ### Personal
 *.pdf
 ExecutionPolicy.txt
+jenkins_home
+A004/db
